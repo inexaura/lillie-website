@@ -1,0 +1,30 @@
+.nav-underline .nav-link.active{
+    /* background-color: blueviolet; */
+    color: rgb(255, 255, 255);
+}
+
+.nav-underline .nav-link:not(.active){
+    /* background-color: rgb(113, 113, 113); */
+    color: rgb(206, 203, 239);
+}
+
+.nav-item{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.navbar{
+    background-color: rgb(59, 0, 167);
+    /* border-bottom: solid 1px white; */
+}
+
+#colu1{
+    background-color: white;
+    padding-top: 12px;
+}
+
+#colu2{
+    background-color: rgb(220, 220, 220);
+    border-left: solid 1px black;
+    padding-top: 12px;
+}
